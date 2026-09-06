@@ -264,3 +264,6 @@ This repository serves as the official landing page for **25 to Life**. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of 25 to Life today!**
+
+---
+**Last updated:** 2026-09-06 16:52:25 UTC
